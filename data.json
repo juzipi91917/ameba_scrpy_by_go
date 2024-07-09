@@ -1,0 +1,20 @@
+{
+    "announcer": [
+        {
+            "name": "sample",
+            "url": "https://ameblo.jp/sample-blog/entrylist.html",
+            "cache": "https://ameblo.jp/sample-blog/entry-cache.html",
+            "subscriber": [
+                "address@sample.com"
+            ]
+        },
+		{
+            "name": "sample",
+            "url": "https://ameblo.jp/sample-blog/entrylist.html",
+            "cache": "https://ameblo.jp/sample-blog/entry-cache.html",
+            "subscriber": [
+                "address@sample.com"
+            ]
+        }
+    ]
+}
