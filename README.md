@@ -1,0 +1,2 @@
+# ameba_scrpy_by_go
+使用golang重构ameba博客爬取代码
